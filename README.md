@@ -40,8 +40,6 @@
 
 ![https://ithelp.ithome.com.tw/upload/images/20200318/20106865uboroBOAM7.jpg](https://ithelp.ithome.com.tw/upload/images/20200318/20106865uboroBOAM7.jpg)  
 
-> 擴充功能不能讀取網站程式，沒辦法將網址插入編輯視窗。（╯‵□′）╯︵┴─┴  
-
 4. 最後將網址貼到編輯器上  
 
 ![https://ithelp.ithome.com.tw/upload/images/20200318/20106865fj4gqsQU58.jpg](https://ithelp.ithome.com.tw/upload/images/20200318/20106865fj4gqsQU58.jpg)  
